@@ -1,0 +1,44 @@
+#linear{
+    color: rgb(0, 0, 0);
+    height: 20vh;
+    width: 20vw;
+    border: 2px solid black;
+    background-image: linear-gradient(to top right, rgb(202, 231, 245),rgb(63, 192, 166),rgb(15, 243, 102));
+}
+#radial{
+    color: rgb(0, 0, 0);
+    height: 20vh;
+    width: 20vw;
+    border: 2px solid black;
+    margin-top: 10px;
+    background-image: radial-gradient(rgb(202, 231, 245),rgb(63, 192, 166),rgb(15, 243, 102));
+   
+}
+.shadow{
+    text-shadow: 2px 2px 2px pink ;
+}
+.box{
+    background-color: aquamarine;
+    box-shadow: 10px 10px rgb(118, 186, 163);
+    height: 20vh;
+    width: 20vw;
+}
+.box-2{
+    max-height: 100px;
+    border: 1px solid black;
+    overflow: scroll;
+    padding: 3px;
+
+}
+.mydiv{
+     border: 2px solid black;
+     min-height: 100px;
+     padding: 3px;
+}
+#divi{
+    border: 1px solid black;
+    height: 100px;
+    padding: 3px;
+    overflow:auto;
+    
+}

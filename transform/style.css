@@ -1,0 +1,7 @@
+.box{
+    background-color: rgb(246, 136, 1);
+    margin: 200px;
+    margin-left: 300px;
+    transform: scale(4,3);
+    transform: skew(45deg);
+}
